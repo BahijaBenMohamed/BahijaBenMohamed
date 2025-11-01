@@ -9,8 +9,8 @@
 ---
 
 ## 💻 À propos de moi
-Étudiante en Master de Recherche en Data Science à l'INSAT.  
-Diplômée d’un Master Professionnel en Intelligence Artificielle et IoT.  
+Étudiante en Master de Recherche en Data Science à l'ENSIT.  
+Diplômée d’un Master Professionnel en Intelligence Artificielle et IoT àl'ISSAT.  
 Passionnée par le Machine Learning, le NLP et le développement web.  
 
 ---
@@ -57,7 +57,7 @@ Détection automatique de discours haineux via NLP et Machine Learning.
 ---
 
 ## 📫 Me contacter
-- LinkedIn : [Bahija BenMohamed](https://www.linkedin.com/in/bahija-benmohamed-151481190/)  
+- LinkedIn : [Bahija BenMohamed](https://www.linkedin.com/in/bahija-benmohamed-151481190/) 
 - Email : bahija.benmohamed98@gmail.com
           bahbm98@gmail.com
 
